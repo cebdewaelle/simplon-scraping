@@ -122,7 +122,7 @@ You are free to use, modify, and distribute this project with proper attribution
 
 Ce projet a été développé dans un but éducatif lors d'une formation chez Sinmplon par une équipe de 4 apprenants:
 
-🔗 [Azhar Elbaghazaoui](https:github.com/Azhar-ELBAGHAZAOUI)  
+🔗 [Azhar Elbaghazaoui](https://github.com/Azhar-ELBAGHAZAOUI)  
 🔗 [Thomas Le Floch](https://github.com/thomas-lefloch)  
 🔗 [Laurent Jean-Alphonse]  
 🔗 [Sébastien Dewaelle](https://github.com/cebdewaelle)  
